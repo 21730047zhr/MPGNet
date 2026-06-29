@@ -26,7 +26,7 @@ Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA?pwd=qqgx 提
 
 ```python model_TPG-FP.py --ori_path {path_to_input_folder_for_simulation}```
 
-we provided default parameters in the document (model_TPG-FP.py) for image generation and other applications can further optimize performance by modifying the simulation parameters for TPG-FP relevant to the coherent imaging system.
+We provided default parameters in the document (model_TPG-FP.py) for image generation and other applications can further optimize performance by modifying the simulation parameters for TPG-FP relevant to the coherent imaging system.
 
 Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA?pwd=qqgx 提取码: qqgx) to download the samples of corr_mat and tilt_mat.
 
@@ -34,7 +34,7 @@ Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA?pwd=qqgx 提
 
 ```python test_image.py --model_name {path_to_model_for_image_restoration} --test_root {path_to_input_folder_for_sub-aperture_images} --save_root {path_to_save_the_results}```
 
-we provided default parameters in the document (test_image.py) for testing the restoration results of MPGNet on the test data. 
+We provided default parameters in the document (test_image.py) for testing the restoration results of MPGNet on the test data. 
 
 
 ## Acknowledgement
