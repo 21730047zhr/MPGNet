@@ -9,11 +9,11 @@ Please follow this (https://data.vision.ee.ethz.ch/cvl/DIV2K/) to download the D
 
 Please follow this [link from EDSR](http://cv.snu.ac.kr/research/EDSR/Flickr2K.tar) to download the Flickr2K dataset.
 
-##Download Pre-trained Models
+## Download Pre-trained Models
 
 Please follow this (https://pan.baidu.com/s/1HYm7lhJxFZ1PKB59D5fwgQ?pwd=4d9p 提取码: 4d9p) to download the pre-trained models.
 
-# Running
+## Running
 
 **simulation for training data**
 ```python model_TPG-FP.py --ori_path {path_to_input_folder_for_simulation}```
