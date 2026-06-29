@@ -26,7 +26,7 @@ Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA?pwd=qqgx 提
 
 ```python model_TPG-FP.py --ori_path {path_to_input_folder_for_simulation}```
 
-we provided default parameters in the document (model_FP-P2S.py) for image generation and other applications can further optimize performance by modifying the simulation parameters for TPG-FP relevant to the coherent imaging system.
+we provided default parameters in the document (model_TPG-FP.py) for image generation and other applications can further optimize performance by modifying the simulation parameters for TPG-FP relevant to the coherent imaging system.
 
 Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA?pwd=qqgx 提取码: qqgx) to download the samples of corr_mat and tilt_mat.
 
