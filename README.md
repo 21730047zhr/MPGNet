@@ -1,6 +1,6 @@
-# MPGNet: Meteorological-parameters-guided restoration network for camera-array-based Fourier ptychography 
+# MPGNet: Meteorological-parameter-guided restoration network for camera-array-based Fourier ptychography 
 
-This work presents a meteorological-parameters-guided network termed MPGNet (model.py) for camera-array-based single-shot far-field FP imaging and introduces meteorological-parameters-guided regulations into the degradation module (model_TPG-FP.py) for learning-based digital simulation of far-field FP imaging
+This work presents a meteorological-parameter-guided network termed MPGNet (model.py) for camera-array-based single-shot far-field FP imaging and introduces meteorological-parameter-guided regulations into the degradation module (model_TPG-FP.py) for learning-based digital simulation of far-field FP imaging
 
 
 ## Simulation Data Preparation
