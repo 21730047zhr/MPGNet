@@ -12,12 +12,17 @@ Please follow this [link from EDSR](http://cv.snu.ac.kr/research/EDSR/Flickr2K.t
 
 ## Download Kilometer-scale Datasets
 
-Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA?pwd=qqgx 提取码: qqgx) to download the kilometer-scale datasets.
+Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA 提取码: qqgx) to download the kilometer-scale datasets.
 
 
 ## Download Pre-trained Models
 
-Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA?pwd=qqgx 提取码: qqgx) to download the pre-trained models.
+Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA 提取码: qqgx) to download the pre-trained models.
+
+
+## Download Supplementary Information 
+
+Please follow this (https://pan.baidu.com/s/10W-nBIJ9o8N4l9mWdw1-rA 提取码: 2bkf) to download the supplementary information.
 
 
 ## Running
