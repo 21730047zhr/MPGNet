@@ -33,7 +33,7 @@ Please follow this (https://pan.baidu.com/s/10W-nBIJ9o8N4l9mWdw1-rA 提取码: 2
 
 We provided default parameters in the document (model_TPG-FP.py) for image generation and other applications can further optimize performance by modifying the simulation parameters for TPG-FP relevant to the coherent imaging system.
 
-Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA 提取码: qqgx or https://doi.org/10.5281/zenodo.23273260) to download the samples of corr_mat and tilt_mat.
+Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA 提取码: qqgx or https://doi.org/10.5281/zenodo.23296956) to download the samples of corr_mat and tilt_mat.
 
 **Inference on test data**
 
