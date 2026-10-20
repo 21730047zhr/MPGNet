@@ -17,12 +17,7 @@ Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA 提取码: q
 
 ## Download Pre-trained Models
 
-Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA 提取码: qqgx or https://doi.org/10.5281/zenodo.23273260) to download the pre-trained models.
-
-
-## Download Supplementary Information 
-
-Please follow this (https://pan.baidu.com/s/10W-nBIJ9o8N4l9mWdw1-rA 提取码: 2bkf or https://doi.org/10.5281/zenodo.23273260) to download the supplementary information.
+Please follow this (https://pan.baidu.com/s/1JpufwomI2AMs0cQVaD9zZA 提取码: qqgx or https://doi.org/10.5281/zenodo.23443997) to download the pre-trained models.
 
 
 ## Running
